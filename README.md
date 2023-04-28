@@ -14,4 +14,4 @@ TODO: Show a page alert when the game is completed.</br>
 This project uses the GPL license, which allows for this project to be released as open source and available to be collaborated on by other Github users including the collaborators declared for this project.
 
 # CONTRIBUTOR
-1. Brent Kenyon - I reviewed your project and think it is very good and I like how clean you kept your html
+1. Brent Kenyon - I reviewed your project and think it is very good and I like how clean you kept your html, However, you could make mulitple webpages linked inside ewachother with hyperlinks.
