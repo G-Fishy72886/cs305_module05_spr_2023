@@ -12,3 +12,6 @@ TODO: Declare a set of solveable puzzles? Not sure if this is required for the a
 TODO: Show a page alert when the game is completed.</br>
 
 This project uses the GPL license, which allows for this project to be released as open source and available to be collaborated on by other Github users including the collaborators declared for this project.
+
+# CONTRIBUTOR
+1. Brent Kenyon - I reviewed your project and think it is very good and I like how clean you kept your html
